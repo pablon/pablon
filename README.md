@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**pablon/pablon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+
+  [![me](https://img.shields.io/badge/Pablo%20Nazar-blue.svg?style=plastic&logo=linkedin)](https://www.linkedin.com/in/pablonazar/)
+
+</div>
