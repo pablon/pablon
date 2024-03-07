@@ -1,16 +1,22 @@
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <div align=center>
 
-  [![me](https://img.shields.io/badge/Pablo%20Nazar-blue.svg?style=plastic&logo=linkedin)](https://www.linkedin.com/in/pablonazar/)
+  ![](https://img.shields.io/badge/Site--Reliability--Engineer-blue.svg?style=plastic&logo=iCloud)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=Docker)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=kubernetes)
+  ![](https://img.shields.io/badge/-blue.svg?style=plastic&logo=helm)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=terraform)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=prometheus)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=grafana)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=githubactions)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=gitlab)
+  ![](https://img.shields.io/badge/-gray.svg?style=plastic&logo=vagrant)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=postgresql)
+  ![](https://img.shields.io/badge/-white.svg?style=plastic&logo=gnubash)
+  ![](https://img.shields.io/badge/-orange.svg?style=plastic&logo=amazonaws)
 
 </div>
